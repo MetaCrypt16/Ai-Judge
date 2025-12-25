@@ -1,0 +1,8 @@
+{
+  "name": "Chatty Charm Debate",
+  "description": "A decentralized AI-powered debate platform where users engage in structured arguments judged by a neutral Gemini AI agent and recorded on a simulated blockchain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
